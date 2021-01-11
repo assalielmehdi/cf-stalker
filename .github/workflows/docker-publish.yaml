@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: ui
+  IMAGE_NAME: cf-stalker
 
 jobs:
   push:
